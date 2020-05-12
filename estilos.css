@@ -1,0 +1,34 @@
+body  {
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-palco-iluminado-neon_23-2148292707.jpg?size=626&ext=jpg");
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  .menu  {
+    background-color: lightblue; 
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around
+  }
+  .menu li {
+    list-style: none;
+  }
+  a {
+    color: red;
+    text-decoration: none;
+  }
+  a:hover  {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,.site-title  {
+    text-align: center;
+    color: whitesmoke;
+  }
+  .site-subtitle  {
+    font-style: italic
+  }
+  .site-title-2  {
+    color: whitesmoke
+  }
